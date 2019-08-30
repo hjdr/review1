@@ -1,0 +1,13 @@
+
+
+School reports
+
+csv file
+
+report app
+
+input is string (comma sep)
+
+string contain grades of students "Green,Amber,Ged"
+
+
